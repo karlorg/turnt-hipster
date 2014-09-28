@@ -1,0 +1,7 @@
+-cp src
+
+-dce full
+
+-main Main
+-D noEmbedJS
+-js out/haxething.js
